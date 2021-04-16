@@ -46,7 +46,9 @@ for app in apps:
                 ]
                 if invalid_components:
                     sys.stderr.write(
-                        f"Invalid components found in {annotation_filename}: {invalid_components}"
+                        "Invalid components found in {}: {}".format(
+                            annotation_filename, invalid_components
+                        )
                     )
                     sys.exit(1)
 
