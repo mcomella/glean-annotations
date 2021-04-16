@@ -1,0 +1,177 @@
+components:
+  Accounts:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AAccounts
+  AndroidIntegration:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AAndroidIntegration
+  Autofill:
+    description: Address and Credit Card autofill
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AAutofill
+  Battery:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ABattery
+  Bookmarks:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ABookmarks
+  Browsing:
+    description: Issues related to browsing experience, browser navigation, not web
+      issues
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ABrowsing
+  China:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AChina
+  Collections:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ACollections
+  ContextMenu:
+    description: Menu that appears when long-pressing on website content
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AContextMenu
+  CrashReporting:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ACrashReporting
+  CustomTabs:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ACustomTabs
+  Discovery:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ADiscovery
+  Download:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ADownload
+  ErrorMessages:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AErrorMessages
+  Experiments:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AExperiments
+  FennecTransition:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AFennecTransition
+  FindBar:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AFindBar
+  Forms:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AForms
+  Gesture:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AGesture
+  History:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AHistory
+  HomeScreen:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AHomeScreen
+  IME:
+    description: Text entry and keyboards
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AIME
+  Logins:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ALogins
+  MainMenu:
+    description: three dot menu
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AMainMenu
+  Media:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AMedia
+  Migration:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AMigration
+  Notifications:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ANotifications
+  Offline:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AOffline
+  Onboarding:
+    description: First Run, Contextual Feature Recommendation/Recommender CFR
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AOnboarding
+  OpenInApp:
+    description: intents
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AOpenInApp
+  PWA:
+    description: Progressive Web App
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3APWA
+  PocketIntegration:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3APocketIntegration
+  Privacy&Security:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3APrivacy%26Security
+  PrivateBrowsing:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3APrivateBrowsing
+  Push:
+    description: WebPush or Marketing push related features.
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3APush
+  QRCode:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AQRCode
+  QuickSettings:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AQuickSettings
+  ReaderMode:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AReaderMode
+  RequestDesktopSite:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ARequestDesktopSite
+  Search:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASearch
+  SearchProvider:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASearchProvider
+  SendTab:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASendTab
+  Settings:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASettings
+  Sharing:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASharing
+  Shortcuts:
+    description: bookmarks on the Android homescreen
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AShortcuts
+  SitePermissions:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASitePermissions
+  Snackbar:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASnackbar
+  Sync:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASync
+  SyncTabs:
+    description: Sync tabs
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ASyncTabs
+  Tabs:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ATabs
+  Telemetry:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ATelemetry
+  TextSelection:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ATextSelection
+  Themes:
+    description: Dark mode, light mode, private browsing mode
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AThemes
+  Toolbar:
+    description: Address bar, see also Feature:Search
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AToolbar
+  TopSites:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ATopSites
+  TrackingProtection:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3ATrackingProtection
+  Voice:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AVoice
+  WebExtensions:
+    description: ''
+    url: https://github.com/mozilla-mobile/fenix/issues?q=label%3AFeature%3AWebExtensions
+
