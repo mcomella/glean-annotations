@@ -1,6 +1,5 @@
-
 ---
-features: [ContextMenu, TextSelection]
+components: [TextSelection, ContextMenu]
 ---
 
 This is a stub commentary for the `contextual_menu.share_tapped` metric: please feel free to edit (read the

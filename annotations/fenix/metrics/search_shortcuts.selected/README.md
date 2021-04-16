@@ -1,6 +1,5 @@
-
 ---
-features: [Shortcuts]
+components: [Shortcuts]
 ---
 
 This is a stub commentary for the `search_shortcuts.selected` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Toolbar]
+components: [Toolbar]
 ---
 
 This is a stub commentary for the `metrics.toolbar_position` metric: please feel free to edit (read the

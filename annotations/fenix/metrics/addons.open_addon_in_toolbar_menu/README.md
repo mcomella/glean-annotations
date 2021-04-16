@@ -1,6 +1,5 @@
-
 ---
-features: [WebExtensions]
+components: [WebExtensions]
 ---
 
 This is a stub commentary for the `addons.open_addon_in_toolbar_menu` metric: please feel free to edit (read the

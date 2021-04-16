@@ -1,6 +1,5 @@
-
 ---
-features: [CrashReporting]
+components: [CrashReporting]
 ---
 
 This is a stub commentary for the `crash_reporter.opened` metric: please feel free to edit (read the

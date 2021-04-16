@@ -1,6 +1,5 @@
-
 ---
-features: [TopSites]
+components: [TopSites]
 ---
 
 This is a stub commentary for the `top_sites.swipe_carousel` metric: please feel free to edit (read the

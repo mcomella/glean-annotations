@@ -1,6 +1,5 @@
-
 ---
-features: [China]
+components: [China]
 ---
 
 This is a stub commentary for the `metrics.distribution_id` metric: please feel free to edit (read the

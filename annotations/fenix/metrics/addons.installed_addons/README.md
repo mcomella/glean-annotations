@@ -1,6 +1,5 @@
-
 ---
-features: [WebExtensions]
+components: [WebExtensions]
 ---
 
 This is a stub commentary for the `addons.installed_addons` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [SendTab]
+components: [SendTab]
 ---
 
 This is a stub commentary for the `sync_account.sign_in_to_send_tab` metric: please feel free to edit (read the

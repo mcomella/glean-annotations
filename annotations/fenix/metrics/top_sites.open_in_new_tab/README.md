@@ -1,6 +1,5 @@
-
 ---
-features: [TopSites]
+components: [TopSites]
 ---
 
 This is a stub commentary for the `top_sites.open_in_new_tab` metric: please feel free to edit (read the

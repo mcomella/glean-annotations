@@ -1,6 +1,5 @@
-
 ---
-features: [Discovery, Search]
+components: [Discovery, Search]
 ---
 
 This is a stub commentary for the `metrics.search_widget_installed` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [TopSites]
+components: [TopSites]
 ---
 
 This is a stub commentary for the `top_sites.long_press` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Sync]
+components: [Sync]
 ---
 
 This is a stub commentary for the `sync_auth.use_email` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Accounts]
+components: [Accounts]
 ---
 
 This is a stub commentary for the `sync_auth.sign_up` metric: please feel free to edit (read the

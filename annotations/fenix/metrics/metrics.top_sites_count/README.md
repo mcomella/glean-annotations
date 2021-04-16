@@ -1,6 +1,5 @@
-
 ---
-features: [TopSites]
+components: [TopSites]
 ---
 
 This is a stub commentary for the `metrics.top_sites_count` metric: please feel free to edit (read the

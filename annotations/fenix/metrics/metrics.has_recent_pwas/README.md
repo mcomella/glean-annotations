@@ -1,6 +1,5 @@
-
 ---
-features: [PWA]
+components: [PWA]
 ---
 
 This is a stub commentary for the `metrics.has_recent_pwas` metric: please feel free to edit (read the

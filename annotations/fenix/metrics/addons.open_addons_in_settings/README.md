@@ -1,6 +1,5 @@
-
 ---
-features: [WebExtensions]
+components: [WebExtensions]
 ---
 
 This is a stub commentary for the `addons.open_addons_in_settings` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Themes]
+components: [Themes]
 ---
 
 This is a stub commentary for the `app_theme.dark_theme_selected` metric: please feel free to edit (read the

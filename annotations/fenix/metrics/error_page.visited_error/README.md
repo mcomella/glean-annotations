@@ -1,6 +1,5 @@
-
 ---
-features: [ErrorMessages]
+components: [ErrorMessages]
 ---
 
 This is a stub commentary for the `error_page.visited_error` metric: please feel free to edit (read the

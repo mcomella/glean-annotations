@@ -1,6 +1,5 @@
-
 ---
-features: [SearchProvider]
+components: [SearchProvider]
 ---
 
 This is a stub commentary for the `user_specified_search_engines.custom_engine_deleted` metric: please feel free to edit (read the

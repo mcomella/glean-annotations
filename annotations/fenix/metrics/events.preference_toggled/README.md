@@ -1,6 +1,5 @@
-
 ---
-features: [Search, PrivateBrowsing, History, Bookmarks, Logins]
+components: [Search, Bookmarks, History, PrivateBrowsing, Logins]
 ---
 
 This is a stub commentary for the `events.preference_toggled` metric: please feel free to edit (read the

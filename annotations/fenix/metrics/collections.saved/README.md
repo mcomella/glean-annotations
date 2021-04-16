@@ -1,6 +1,5 @@
-
 ---
-features: [Collections]
+components: [Collections]
 ---
 
 This is a stub commentary for the `collections.saved` metric: please feel free to edit (read the

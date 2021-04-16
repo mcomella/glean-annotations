@@ -1,6 +1,5 @@
-
 ---
-features: [PWA]
+components: [PWA]
 ---
 
 This is a stub commentary for the `metrics.recently_used_pwa_count` metric: please feel free to edit (read the

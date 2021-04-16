@@ -1,6 +1,5 @@
-
 ---
-features: [Bookmarks]
+components: [Bookmarks]
 ---
 
 This is a stub commentary for the `metrics.desktop_bookmarks_count` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Tabs]
+components: [Tabs]
 ---
 
 This is a stub commentary for the `metrics.tabs_open_count` metric: please feel free to edit (read the

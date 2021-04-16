@@ -16,7 +16,7 @@ for metric, features in feature_map.items():
         metric_path = os.path.join('annotations', 'fenix', 'metrics', metric)
         os.makedirs(metric_path, exist_ok=True)
         open(os.path.join(metric_path, 'README.md'), 'w').write(f'''---
-features: [{", ".join(features)}]
+components: [{", ".join(features)}]
 ---
 
 This is a stub commentary for the `{metric}` metric: please feel free to edit (read the

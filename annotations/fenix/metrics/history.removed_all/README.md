@@ -1,6 +1,5 @@
-
 ---
-features: [History]
+components: [History]
 ---
 
 This is a stub commentary for the `history.removed_all` metric: please feel free to edit (read the

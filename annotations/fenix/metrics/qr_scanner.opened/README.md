@@ -1,6 +1,5 @@
-
 ---
-features: [QRCode]
+components: [QRCode]
 ---
 
 This is a stub commentary for the `qr_scanner.opened` metric: please feel free to edit (read the

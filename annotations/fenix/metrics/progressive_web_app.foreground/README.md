@@ -1,6 +1,5 @@
-
 ---
-features: [PWA]
+components: [PWA]
 ---
 
 This is a stub commentary for the `progressive_web_app.foreground` metric: please feel free to edit (read the

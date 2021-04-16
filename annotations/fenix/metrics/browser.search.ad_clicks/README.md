@@ -1,6 +1,5 @@
-
 ---
-features: [Search]
+components: [Search]
 ---
 
 This is a stub commentary for the `browser.search.ad_clicks` metric: please feel free to edit (read the

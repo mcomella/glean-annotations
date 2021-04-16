@@ -1,6 +1,5 @@
-
 ---
-features: [Discovery]
+components: [Discovery]
 ---
 
 This is a stub commentary for the `tip.closed` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Media]
+components: [Media]
 ---
 
 This is a stub commentary for the `media_notification.pause` metric: please feel free to edit (read the

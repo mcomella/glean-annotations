@@ -1,6 +1,5 @@
-
 ---
-features: [Download]
+components: [Download]
 ---
 
 This is a stub commentary for the `downloads_management.item_deleted` metric: please feel free to edit (read the

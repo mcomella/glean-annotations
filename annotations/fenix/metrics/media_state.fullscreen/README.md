@@ -1,6 +1,5 @@
-
 ---
-features: [Media]
+components: [Media]
 ---
 
 This is a stub commentary for the `media_state.fullscreen` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [Bookmarks]
+components: [Bookmarks]
 ---
 
 This is a stub commentary for the `bookmarks_management.multi_removed` metric: please feel free to edit (read the

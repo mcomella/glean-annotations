@@ -1,6 +1,5 @@
-
 ---
-features: [ContextMenu]
+components: [ContextMenu]
 ---
 
 This is a stub commentary for the `events.copy_url_tapped` metric: please feel free to edit (read the

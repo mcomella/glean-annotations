@@ -40,7 +40,9 @@ for app in apps:
             components = annotation_md.get("components")
             if components:
                 invalid_components = [
-                    component not in valid_components for component in components
+                    component
+                    for component in components
+                    if component not in valid_components
                 ]
                 if invalid_components:
                     sys.stderr.write(

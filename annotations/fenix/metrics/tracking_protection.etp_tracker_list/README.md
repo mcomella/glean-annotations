@@ -1,6 +1,5 @@
-
 ---
-features: [TrackingProtection]
+components: [TrackingProtection]
 ---
 
 This is a stub commentary for the `tracking_protection.etp_tracker_list` metric: please feel free to edit (read the

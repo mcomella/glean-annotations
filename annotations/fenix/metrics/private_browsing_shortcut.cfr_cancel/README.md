@@ -1,6 +1,5 @@
-
 ---
-features: [PrivateBrowsing]
+components: [PrivateBrowsing]
 ---
 
 This is a stub commentary for the `private_browsing_shortcut.cfr_cancel` metric: please feel free to edit (read the

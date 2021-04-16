@@ -1,6 +1,5 @@
-
 ---
-features: [Collections]
+components: [Collections]
 ---
 
 This is a stub commentary for the `collections.all_tabs_restored` metric: please feel free to edit (read the

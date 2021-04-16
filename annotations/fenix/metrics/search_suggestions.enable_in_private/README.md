@@ -1,6 +1,5 @@
-
 ---
-features: [Search]
+components: [Search]
 ---
 
 This is a stub commentary for the `search_suggestions.enable_in_private` metric: please feel free to edit (read the

@@ -1,6 +1,5 @@
-
 ---
-features: [SearchProvider]
+components: [SearchProvider]
 ---
 
 This is a stub commentary for the `search.default_engine.name` metric: please feel free to edit (read the

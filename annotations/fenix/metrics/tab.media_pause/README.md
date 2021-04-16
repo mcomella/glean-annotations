@@ -1,6 +1,5 @@
-
 ---
-features: [Media]
+components: [Media]
 ---
 
 This is a stub commentary for the `tab.media_pause` metric: please feel free to edit (read the

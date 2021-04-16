@@ -1,6 +1,5 @@
-
 ---
-features: [QRCode]
+components: [QRCode]
 ---
 
 This is a stub commentary for the `qr_scanner.navigation_denied` metric: please feel free to edit (read the

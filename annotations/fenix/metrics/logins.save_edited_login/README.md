@@ -1,6 +1,5 @@
-
 ---
-features: [Logins]
+components: [Logins]
 ---
 
 This is a stub commentary for the `logins.save_edited_login` metric: please feel free to edit (read the

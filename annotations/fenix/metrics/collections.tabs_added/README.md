@@ -1,6 +1,5 @@
-
 ---
-features: [Collections]
+components: [Collections]
 ---
 
 This is a stub commentary for the `collections.tabs_added` metric: please feel free to edit (read the
