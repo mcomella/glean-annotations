@@ -19,7 +19,7 @@ for app in apps:
     try:
         metadata = yaml.load(open(os.path.join(app_dir, "metadata.yaml")))
         data[app] = metadata
-        valid_components = metadata.get("components", [])
+        valid_components = metadata.get("components", []).keys()
     except:
         data[app] = {}
         pass
