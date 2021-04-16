@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
-import frontmatter
 import json
 import os
 from collections import defaultdict
 
+import frontmatter
+import yaml
 
 ANNOTATIONS_DIR = os.path.join(os.path.dirname(__file__), "..", "annotations")
 
@@ -12,8 +13,15 @@ data = defaultdict(lambda: defaultdict(lambda: {}))
 
 apps = os.listdir(ANNOTATIONS_DIR)
 for app in apps:
+    app_dir = os.path.join(ANNOTATIONS_DIR, app)
+    valid_features = []
+    try:
+        metadata = yaml.load(open(os.path.join(app_dir, "metadata.yaml")))
+        valid_features = metadata.get('features', [])
+    except:
+        pass
     for annotation_type in ("metrics", "pings"):
-        annotation_dir = os.path.join(ANNOTATIONS_DIR, app, annotation_type)
+        annotation_dir = os.path.join(app_dir, annotation_type)
         if not os.path.isdir(annotation_dir):
             # for some apps, we may have annotations for one annotation type
             # but not another

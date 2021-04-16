@@ -24,7 +24,6 @@ for metric_name, metric in fenix_metrics.items():
     if fenix_issues:
         issue_map[metric_name] = fenix_issues
 
-# print(issue_map)
 issue_cache = {}
 def get_issue(number):
     return requests.get(f"https://api.github.com/repos/mozilla-mobile/fenix/issues/{number}", headers={'Authorization': 'token %s' % GITHUB_TOKEN}).json()
@@ -34,8 +33,8 @@ for metric, issue_numbers in issue_map.items():
     features = []
     for issue_number in issue_numbers:
         if not issue_cache.get(issue_number):
+            print(issue_number)
             issue = get_issue(issue_number)
-            #print(issue)
             label_names = [label['name'] for label in issue['labels'] if label['name'].startswith('Feature:')]
             issue_cache[issue_number] = label_names
         features.extend(issue_cache[issue_number])
