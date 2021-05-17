@@ -1,5 +1,5 @@
 ---
-components: [PWA]
+labels: [Feature:PWA]
 ---
 
 This is a stub commentary for the `progressive_web_app.homescreen_tap` metric: please feel free to edit (read the

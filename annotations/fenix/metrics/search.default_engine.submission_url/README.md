@@ -1,5 +1,5 @@
 ---
-components: [SearchProvider]
+labels: [Feature:SearchProvider]
 ---
 
 This is a stub commentary for the `search.default_engine.submission_url` metric: please feel free to edit (read the

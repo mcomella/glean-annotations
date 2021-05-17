@@ -1,5 +1,5 @@
 ---
-components: [Collections]
+labels: [Feature:Collections]
 ---
 
 This is a stub commentary for the `collections.add_tab_button` metric: please feel free to edit (read the

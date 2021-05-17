@@ -1,5 +1,5 @@
 ---
-components: [SitePermissions]
+labels: [Feature:SitePermissions]
 ---
 
 This is a stub commentary for the `autoplay.visited_setting` metric: please feel free to edit (read the

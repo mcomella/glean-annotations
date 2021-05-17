@@ -1,5 +1,5 @@
 ---
-components: [Discovery]
+labels: [Feature:Discovery]
 ---
 
 This is a stub commentary for the `tip.displayed` metric: please feel free to edit (read the

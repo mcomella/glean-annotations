@@ -1,5 +1,5 @@
 ---
-components: [Collections]
+labels: [Feature:Collections]
 ---
 
 This is a stub commentary for the `collections.shared` metric: please feel free to edit (read the

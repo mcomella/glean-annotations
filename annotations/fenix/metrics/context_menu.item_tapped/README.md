@@ -1,5 +1,5 @@
 ---
-components: [Sharing]
+labels: [Feature:Sharing]
 ---
 
 This is a stub commentary for the `context_menu.item_tapped` metric: please feel free to edit (read the

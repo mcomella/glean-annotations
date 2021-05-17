@@ -1,5 +1,5 @@
 ---
-components: [CrashReporting]
+labels: [Feature:CrashReporting]
 ---
 
 This is a stub commentary for the `crash_reporter.closed` metric: please feel free to edit (read the

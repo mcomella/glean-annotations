@@ -1,5 +1,5 @@
 ---
-components: [PrivateBrowsing]
+labels: [Feature:PrivateBrowsing]
 ---
 
 This is a stub commentary for the `events.normal_and_private_uri_count` metric: please feel free to edit (read the

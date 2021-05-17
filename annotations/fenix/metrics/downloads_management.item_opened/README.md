@@ -1,5 +1,5 @@
 ---
-components: [Download]
+labels: [Feature:Download]
 ---
 
 This is a stub commentary for the `downloads_management.item_opened` metric: please feel free to edit (read the

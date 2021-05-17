@@ -1,5 +1,5 @@
 ---
-components: [Bookmarks]
+labels: [Feature:Bookmarks]
 ---
 
 This is a stub commentary for the `bookmarks_management.open_in_private_tabs` metric: please feel free to edit (read the

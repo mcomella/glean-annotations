@@ -1,5 +1,5 @@
 ---
-components: [TrackingProtection]
+labels: [Feature:TrackingProtection]
 ---
 
 This is a stub commentary for the `tracking_protection.exception_added` metric: please feel free to edit (read the

@@ -1,5 +1,5 @@
 ---
-components: [Search]
+labels: [Feature:Search]
 ---
 
 This is a stub commentary for the `metrics.search_count` metric: please feel free to edit (read the

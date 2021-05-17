@@ -1,5 +1,5 @@
 ---
-components: [PrivateBrowsing]
+labels: [Feature:PrivateBrowsing]
 ---
 
 This is a stub commentary for the `private_browsing_shortcut.static_shortcut_tab` metric: please feel free to edit (read the

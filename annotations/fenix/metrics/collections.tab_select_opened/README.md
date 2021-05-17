@@ -1,5 +1,5 @@
 ---
-components: [Collections]
+labels: [Feature:Collections]
 ---
 
 This is a stub commentary for the `collections.tab_select_opened` metric: please feel free to edit (read the

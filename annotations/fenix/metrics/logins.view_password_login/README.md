@@ -1,5 +1,5 @@
 ---
-components: [Logins]
+labels: [Feature:Logins]
 ---
 
 This is a stub commentary for the `logins.view_password_login` metric: please feel free to edit (read the

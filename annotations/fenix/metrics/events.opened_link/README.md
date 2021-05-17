@@ -1,5 +1,5 @@
 ---
-components: [PrivateBrowsing]
+labels: [Feature:PrivateBrowsing]
 ---
 
 This is a stub commentary for the `events.opened_link` metric: please feel free to edit (read the

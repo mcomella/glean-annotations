@@ -1,5 +1,5 @@
 ---
-components: [CustomTabs]
+labels: [Feature:CustomTabs]
 ---
 
 This is a stub commentary for the `custom_tab.closed` metric: please feel free to edit (read the

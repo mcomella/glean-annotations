@@ -1,5 +1,5 @@
 ---
-components: [History]
+labels: [Feature:History]
 ---
 
 This is a stub commentary for the `history.shared` metric: please feel free to edit (read the

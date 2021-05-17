@@ -1,5 +1,5 @@
 ---
-components: [ReaderMode]
+labels: [Feature:ReaderMode]
 ---
 
 This is a stub commentary for the `reader_mode.closed` metric: please feel free to edit (read the

@@ -1,5 +1,5 @@
 ---
-components: [Bookmarks]
+labels: [Feature:Bookmarks]
 ---
 
 This is a stub commentary for the `bookmarks_management.shared` metric: please feel free to edit (read the

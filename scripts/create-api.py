@@ -15,11 +15,11 @@ data = {}  # defaultdict(lambda: )
 apps = os.listdir(ANNOTATIONS_DIR)
 for app in apps:
     app_dir = os.path.join(ANNOTATIONS_DIR, app)
-    valid_components = []
+    valid_labels = []
     try:
         metadata = yaml.load(open(os.path.join(app_dir, "metadata.yaml")))
         data[app] = metadata
-        valid_components = metadata.get("components", []).keys()
+        valid_labels = metadata.get("labels", []).keys()
     except:
         data[app] = {}
         pass
@@ -37,20 +37,18 @@ for app in apps:
             )
             annotation_md = frontmatter.load(annotation_filename)
             annotation = {"content": annotation_md.content}
-            components = annotation_md.get("components")
-            if components:
-                invalid_components = [
-                    component
-                    for component in components
-                    if component not in valid_components
+            labels = annotation_md.get("labels")
+            if labels:
+                invalid_labels = [
+                    label for label in labels if label not in valid_labels
                 ]
-                if invalid_components:
+                if invalid_labels:
                     sys.stderr.write(
-                        f"Invalid components found in {annotation_filename}: {invalid_components}"
+                        f"Invalid labels found in {annotation_filename}: {invalid_labels}"
                     )
                     sys.exit(1)
 
-                annotation.update({"components": components})
+                annotation.update({"labels": labels})
             data[app]["annotations"][annotation_type][annotation_id] = annotation
 
 print(json.dumps(data))

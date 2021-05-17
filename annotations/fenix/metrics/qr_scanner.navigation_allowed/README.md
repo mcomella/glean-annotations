@@ -1,5 +1,5 @@
 ---
-components: [QRCode]
+labels: [Feature:QRCode]
 ---
 
 This is a stub commentary for the `qr_scanner.navigation_allowed` metric: please feel free to edit (read the

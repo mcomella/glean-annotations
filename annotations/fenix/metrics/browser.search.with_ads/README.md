@@ -1,5 +1,5 @@
 ---
-components: [Search]
+labels: [Feature:Search]
 ---
 
 This is a stub commentary for the `browser.search.with_ads` metric: please feel free to edit (read the

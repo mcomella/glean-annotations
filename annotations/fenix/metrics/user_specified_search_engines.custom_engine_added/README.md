@@ -1,5 +1,5 @@
 ---
-components: [SearchProvider]
+labels: [Feature:SearchProvider]
 ---
 
 This is a stub commentary for the `user_specified_search_engines.custom_engine_added` metric: please feel free to edit (read the

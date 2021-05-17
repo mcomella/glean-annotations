@@ -1,5 +1,5 @@
 ---
-components: [WebExtensions]
+labels: [Feature:WebExtensions]
 ---
 
 This is a stub commentary for the `addons.has_enabled_addons` metric: please feel free to edit (read the

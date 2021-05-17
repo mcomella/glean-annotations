@@ -1,5 +1,5 @@
 ---
-components: [Search, Voice]
+labels: [Feature:Search, Feature:Voice]
 ---
 
 This is a stub commentary for the `voice_search.tapped` metric: please feel free to edit (read the

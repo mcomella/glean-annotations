@@ -1,5 +1,5 @@
 ---
-components: [Logins]
+labels: [Feature:Logins]
 ---
 
 This is a stub commentary for the `user_specified_search_engines.search_with_custom_engine` metric: please feel free to edit (read the

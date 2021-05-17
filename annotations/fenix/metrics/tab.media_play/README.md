@@ -1,5 +1,5 @@
 ---
-components: [Media]
+labels: [Feature:Media]
 ---
 
 This is a stub commentary for the `tab.media_play` metric: please feel free to edit (read the

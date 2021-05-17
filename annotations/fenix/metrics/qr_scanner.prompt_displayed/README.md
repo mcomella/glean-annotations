@@ -1,5 +1,5 @@
 ---
-components: [QRCode]
+labels: [Feature:QRCode]
 ---
 
 This is a stub commentary for the `qr_scanner.prompt_displayed` metric: please feel free to edit (read the

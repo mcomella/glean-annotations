@@ -1,5 +1,5 @@
 ---
-components: [Tabs]
+labels: [Feature:Tabs]
 ---
 
 This is a stub commentary for the `metrics.tab_view_setting` metric: please feel free to edit (read the

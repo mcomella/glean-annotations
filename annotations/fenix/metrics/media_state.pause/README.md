@@ -1,5 +1,5 @@
 ---
-components: [Media]
+labels: [Feature:Media]
 ---
 
 This is a stub commentary for the `media_state.pause` metric: please feel free to edit (read the

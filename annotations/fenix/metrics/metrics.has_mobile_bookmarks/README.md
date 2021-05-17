@@ -1,5 +1,5 @@
 ---
-components: [Bookmarks]
+labels: [Feature:Bookmarks]
 ---
 
 This is a stub commentary for the `metrics.has_mobile_bookmarks` metric: please feel free to edit (read the

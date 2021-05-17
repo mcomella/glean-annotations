@@ -1,5 +1,5 @@
 ---
-components: [TopSites]
+labels: [Feature:TopSites]
 ---
 
 This is a stub commentary for the `top_sites.open_pinned` metric: please feel free to edit (read the

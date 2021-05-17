@@ -1,5 +1,5 @@
 ---
-components: [PrivateBrowsing]
+labels: [Feature:PrivateBrowsing]
 ---
 
 This is a stub commentary for the `private_browsing_mode.notification_delete` metric: please feel free to edit (read the

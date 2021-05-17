@@ -1,5 +1,5 @@
 ---
-components: [WebExtensions]
+labels: [Feature:WebExtensions]
 ---
 
 This is a stub commentary for the `addons.open_addon_setting` metric: please feel free to edit (read the

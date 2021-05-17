@@ -1,5 +1,5 @@
 ---
-components: [TextSelection, ContextMenu]
+labels: [Feature:ContextMenu, Feature:TextSelection]
 ---
 
 This is a stub commentary for the `contextual_menu.copy_tapped` metric: please feel free to edit (read the

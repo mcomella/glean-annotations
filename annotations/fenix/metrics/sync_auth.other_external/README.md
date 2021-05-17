@@ -1,5 +1,5 @@
 ---
-components: [Accounts]
+labels: [Feature:Accounts]
 ---
 
 This is a stub commentary for the `sync_auth.other_external` metric: please feel free to edit (read the
