@@ -1,5 +1,5 @@
 ---
-labels: [Feature:Search, Feature:Discovery]
+labels: [Feature:Discovery, Feature:Search]
 ---
 
 This is a stub commentary for the `metrics.search_widget_installed` metric: please feel free to edit (read the

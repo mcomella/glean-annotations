@@ -1,5 +1,5 @@
 ---
-labels: [Feature:Logins, Feature:Bookmarks, Feature:Search, Feature:History, Feature:PrivateBrowsing]
+labels: [Feature:Bookmarks, Feature:History, Feature:Logins, Feature:PrivateBrowsing, Feature:Search]
 ---
 
 This is a stub commentary for the `events.preference_toggled` metric: please feel free to edit (read the
